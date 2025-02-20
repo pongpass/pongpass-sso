@@ -1,0 +1,27 @@
+deploy/
+*.env
+.github/
+node_modules/
+package-lock.json
+.github/
+.qodo/
+# TypeScript compiled files
+*.tsbuildinfo
+*.d.ts
+*.js
+*.js.map
+*.jsx
+*.jsx.map
+
+# TypeScript declaration files
+*.d.ts
+
+# TypeScript cache
+*.tscache
+
+# TypeScript build directory
+dist/
+
+# TypeScript temporary files
+*.tmp
+*.temp

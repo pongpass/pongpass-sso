@@ -1,0 +1,23 @@
+/* Navigation Bar */
+.navbar {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  .investor-login-btn {
+    background: none;
+    color: white;
+    border: 1px solid white;
+    padding: 8px 15px;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 5px;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .investor-login-btn:hover {
+    background: white;
+    color: black;
+  }
+  
